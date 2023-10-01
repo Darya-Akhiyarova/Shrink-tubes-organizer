@@ -10,3 +10,7 @@
 1. [Бокс переносной с ручкой](https://www.tinytronics.nl/shop/en/tools-and-mounting/installation-and-mounting-material/heat-shrink-tubing/heat-shrink-tubing-kit-in-box-coloured-505-pieces)
 2. [Контейнер с крышкой](https://sl.aliexpress.ru/p?key=YzjJUIn)
 3. [Органайзер с выдвижной крышкой для трубок длинной 40 мм (модель для 3D-печати)](https://www.thingiverse.com/thing:4410437)
+
+**Доска вдохновения**
+
+[Miro](https://miro.com/welcomeonboard/V0tsdHA0bVhsWVZuT2hpaVNEZVlDTWJCRUJZbVh0aGRsM0RycVFKY2ZiNDJUR2g2aEFEN1g2MGpqeU9pekZhT3wzMDc0NDU3MzUxOTc5OTc5NTY3fDI=?share_link_id=810120161103)
