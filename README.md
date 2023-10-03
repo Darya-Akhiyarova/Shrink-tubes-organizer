@@ -13,10 +13,13 @@
 |[Контейнер с крышкой](https://sl.aliexpress.ru/p?key=YzjJUIn) | Простота, есть резьба для регулирования размеров перегородок отсеков | Неэстетичный вид, не хватает отсеков |
 |[Органайзер с выдвижной крышкой для трубок длинной 40 мм (модель для 3D-печати)](https://www.thingiverse.com/thing:4410437) | Минимализм | Очень маленькая |
 
-Вывод: любую существующую модель можно доработать под нужный размер и доработать дизайн
+Вывод: любую существующую модель можно переделать под нужный размер и доработать дизайн
 
 ### Доска вдохновения
 
 [Miro. Shrink-tubes-organizer](https://miro.com/welcomeonboard/V0tsdHA0bVhsWVZuT2hpaVNEZVlDTWJCRUJZbVh0aGRsM0RycVFKY2ZiNDJUR2g2aEFEN1g2MGpqeU9pekZhT3wzMDc0NDU3MzUxOTc5OTc5NTY3fDI=?share_link_id=810120161103)
 
 ### Скетчинг
+
+![sketch](скетч1.jpeg)
+![sketch](скетч2.jpeg)
