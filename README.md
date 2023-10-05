@@ -42,6 +42,7 @@
 
 ![model](ящик-в.jpg)
 ![сборка верхнего ящика](https://github.com/Darya-Akhiyarova/Shrink-tubes-organizer/assets/144244924/f5e5f6ec-8d38-4252-b120-ca49262b9b50)
+
 Рис.3 - Трехмерная модель верхнего ящика с крышкой
 
 
